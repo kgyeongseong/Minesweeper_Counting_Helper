@@ -1,1 +1,1 @@
-<img src="https://github.com/kgyeongseong/Minesweeper_Counting_Helper/blob/main/Minesweeper_Counting_Helper.png" width="96%">
+<img src="https://github.com/kgyeongseong/Minesweeper_Counting_Helper/blob/main/Minesweeper_Counting_Helper_1.png" width="96%">
